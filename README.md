@@ -19,10 +19,3 @@ Atuo na construção de sistemas web, APIs e integrações, com experiência em 
 Atualmente trabalho na Destra Tecnologia como desenvolvedor full stack, atuando no desenvolvimento e manutenção de sistemas web.
 
 ---
-
-## 📚 Em evolução
-- Arquitetura de software
-- Boas práticas de backend
-- Performance em aplicações web
-
----
