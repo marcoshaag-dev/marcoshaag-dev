@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Olá, eu sou Marcos Haag
 
-<!--
-**marcoshaag-dev/marcoshaag-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack com foco em **Java (Spring Boot)** e **Angular**.
 
-Here are some ideas to get you started:
+Atuo na construção de sistemas web, APIs e integrações, com experiência em banco de dados e aplicações corporativas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Stack principal
+- Java
+- Spring Boot
+- Angular
+- MySQL
+- REST APIs
+
+---
+
+## 💼 Experiência
+Atualmente trabalho na Destra Tecnologia como desenvolvedor full stack, atuando no desenvolvimento e manutenção de sistemas web.
+
+---
+
+## 📚 Em evolução
+- Arquitetura de software
+- Boas práticas de backend
+- Performance em aplicações web
+
+---
+
+## 📫 Contato
+- LinkedIn: (coloca o link)
+- Email: (coloca o email)
