@@ -26,7 +26,3 @@ Atualmente trabalho na Destra Tecnologia como desenvolvedor full stack, atuando 
 - Performance em aplicações web
 
 ---
-
-## 📫 Contato
-- LinkedIn: (coloca o link)
-- Email: (coloca o email)
